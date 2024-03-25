@@ -5,33 +5,16 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Mingerfan
 
-- 🔭 I’m currently working on **HuoLaLa**
-- 🌱 I’m currently learning **NLP**
+- 🔭 I’m currently working on **BOSC**
+- 🌱 I’m currently learning **Chip Design**
 - 👯 Currently working in **ShenZhen, China**
-- 🤔 I love **Reading, photography**
-- 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: **wf18684531169@gmail.com**
-- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86)
-- ⚡ Fun fact: **LOL, Movie**
+- 📫 How to reach me: **xsmingerfan@gmail.com**
+- 😄 You may like [Blog](https://blog.csdn.net/m0_50194941?spm=1010.2135.3001.5421)
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas-Wong)](https://github.com/Christmas-Wong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingerfan)](https://github.com/mingerfan/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas-Wong&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingerfan&show_icons=true&theme=tokyonight)
 
-# My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### DeepLearning  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
